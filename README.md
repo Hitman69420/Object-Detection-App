@@ -5,5 +5,4 @@ The Object Detection Web App is a comprehensive application developed to identif
 
 ![Screenshot (7)](https://github.com/Hitman69420/Object-Detection-App/assets/87095287/32817afa-08ba-4a5f-bf68-19ee9028c9b6)
 ![Screenshot (8)](https://github.com/Hitman69420/Object-Detection-App/assets/87095287/418f0ff0-10ae-4b16-9652-7a650bec2def)
-![Screenshot 2023-08-07 010711](https://github.com/Hitman69420/Object-Detection-App/assets/87095287/00344dbf-8d19-44b2-af5c-e244bc2b91b0)
 ![yolo](https://github.com/Hitman69420/Object-Detection-App/assets/87095287/7d55bf4c-72f5-4c8c-bf0a-3f978e86ad5d)
